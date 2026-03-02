@@ -14,6 +14,7 @@
 - **language**:Pytohn
 - **Tool**:-Wire shark
            -Burp Suite
+           -Bettercap
            -hashcat
            -John the ripper
            -Nmap
@@ -23,7 +24,12 @@
            -Docker
            -Ghidra
            -msf(Metasploit)
+           -Hydra
            -Lynis
+
+  Status:Leaning how to use these tools effectively.
+         Just because they are installed doesn't mean I'm a pro yet-but I'm getting there.
+
 
   ### [Open to Mentorship]
   I am currently looking for a mentor who can provide technical guidance and insights.
