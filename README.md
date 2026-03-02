@@ -31,7 +31,7 @@
          Just because they are installed doesn't mean I'm a pro yet-but I'm getting there.
 
 
-  ### [Open to Mentorship]
+ ### [Open to Mentorship]
   I am currently looking for a mentor who can provide technical guidance and insights.
   If you are interested in guiding a dedicated learner, please reach out via Session.
 
