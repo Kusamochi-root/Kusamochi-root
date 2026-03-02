@@ -1,17 +1,37 @@
 ## Hi there 👋
 
+#Kusamochi-root
 ##About Me
--<!--
-**Kusamochi-root/Kusamochi-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Middle School Student in Japan
+-Linux(WSL) beginner
+-Lerning English
+-Learning python and wsl
 
-Here are some ideas to get you started:
+### [Toolbox / Stack]
+- **OS**: WSL(Linux Ubuntu)
+- **Shell**: Bash
+- **Editor**: VS Code (Visual Studio Code)
+- **language**:Pytohn
+- **Tool**:Wire shark
+           Burp Suite
+           hashcat
+           John the ripper
+           Nmap
+           SQLmap
+           Sherlock
+           VirtualBox
+           Docker
+           Ghidra
+           msf
+           Lynis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### [Open to Mentorship]
+  I am currently looking for a mentor who can provide technical guidance and insights.
+  If you are interested in guiding a dedicated learner, please reach out via Session.
+
+  **Conract**
+  - **Session ID**: 0538bac0338c3b66cce376ca9245c0afddfd96564a0629e9c6288dd53cc15c266e
+
+
+             
+  
