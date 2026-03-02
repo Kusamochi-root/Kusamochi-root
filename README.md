@@ -12,18 +12,18 @@
 - **Shell**: Bash
 - **Editor**: VS Code (Visual Studio Code)
 - **language**:Pytohn
-- **Tool**:Wire shark
-           Burp Suite
-           hashcat
-           John the ripper
-           Nmap
-           SQLmap
-           Sherlock
-           VirtualBox
-           Docker
-           Ghidra
-           msf
-           Lynis
+- **Tool**:-Wire shark
+           -Burp Suite
+           -hashcat
+           -John the ripper
+           -Nmap
+           -SQLmap
+           -Sherlock
+           -VirtualBox
+           -Docker
+           -Ghidra
+           -msf(Metasploit)
+           -Lynis
 
   ### [Open to Mentorship]
   I am currently looking for a mentor who can provide technical guidance and insights.
