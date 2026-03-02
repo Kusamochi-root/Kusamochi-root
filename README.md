@@ -11,7 +11,7 @@
 - **OS**: WSL(Linux Ubuntu)
 - **Shell**: Bash
 - **Editor**: VS Code (Visual Studio Code)
-- **language**:Pytohn
+- **language**:Python
 - **Tool**:-Wire shark
            -Burp Suite
            -Bettercap
