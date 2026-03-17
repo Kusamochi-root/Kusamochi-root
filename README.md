@@ -17,7 +17,7 @@
 ---
 
 ## 📂 System Information
-- **User Role:** Middle School Student / Aspiring Security Researcher 🛡️
+- **User Role:** Middle School Student
 - **Host OS:** `WSL2 (Ubuntu 24.04 LTS)` 🐧
 - **Shell:** `zsh` / `bash`
 - **Current Objective:** Mastering English & Python for Global Research 🌍
