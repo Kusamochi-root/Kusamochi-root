@@ -36,9 +36,6 @@
 ---
 
 ## 📈 Activity Logs
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=matrix&hide_border=true" alt="Kusamochi-root's GitHub stats" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusamochi-root&theme=matrix&hide_border=true" alt="GitHub Streak" />
