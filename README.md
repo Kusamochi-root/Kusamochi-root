@@ -1,7 +1,7 @@
 # ⚡Kusamochi-root
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kusamochi-root;Middle+School+Student+in+Japan;Learning+Cybersecurity;CTF+Enthusiast;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kusamochi-root;Middle+School+Student+in+Japan;Learning+Cybersecurity;Python+Developer" alt="Typing SVG" />
 </p>
 
 ---
