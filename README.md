@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🛡 Penetration Testing & Analysis
-> **Note:** My tools are sharp, but I'm still learning how to swing them.
+> **Note:** Learning how to use these tools effectively.
 
 | Sector | Tools |
 | :--- | :--- |
