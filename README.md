@@ -57,17 +57,11 @@
 ---
 
 ## 🤝 Support & Mentorship
-I'm looking for a **mentor** who can guide me through the deep waters of cybersecurity.
+I'm looking for a **mentor** who can guide me.
 If you're interested in mentoring me, please reach out!
 
 - **Session ID:** `0538bac0338c3b66cce376ca9245c0afddfd96564a0629e9c6288dd53cc15c266e`
 
----
-
-<p align="center">
-  <i>"Stay curious. Stay humble. Stay hungry."</i><br>
-  <b>Happy Hacking!</b>
-</p>
 
              
   
