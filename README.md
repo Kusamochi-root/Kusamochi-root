@@ -1,13 +1,3 @@
-
-
-### 🚀 About Me
-- 🏫 **Middle School Student** in Japan.
-- 🐧 **Linux (WSL/Ubuntu)** beginner.
-- 🐍 Learning **Python** for automation and security scripting.
-- 🇬🇧 Improving my **English** to read global technical docs.
-
----
-
 # ⚡Kusamochi-root
 
 <p align="center">
@@ -15,7 +5,12 @@
 </p>
 
 ---
-
+### 🚀 About Me
+- 🏫 **Middle School Student** in Japan.
+- 🐧 **Linux (WSL/Ubuntu)** beginner.
+- 🐍 Learning **Python** for automation and security scripting.
+- 🇬🇧 Improving my **English** to read global technical docs.
+---
 ## 📂 System Information
 - **User Role:** Middle School Student
 - **Host OS:** `WSL2 (Ubuntu 24.04 LTS)` 🐧
