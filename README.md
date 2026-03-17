@@ -40,7 +40,7 @@
 
 ### 🤝 Open to Mentorship
 I am currently looking for a mentor who can provide technical guidance and insights. 
-If you are interested in guiding a young enthusiast, please reach out!
+If you are interested in guiding me, please reach out!
 
 **Contact via Session:**
 `0538bac0338c3b66cce376ca9245c0afddfd96564a0629e9c6288dd53cc15c266e`
