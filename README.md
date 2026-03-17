@@ -33,10 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=tokyonight)
-
----
 
 ### 🤝 Open to Mentorship
 I am currently looking for a mentor who can provide technical guidance and insights. 
@@ -95,6 +91,10 @@ If you are interested in guiding me, please reach out!
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusamochi-root&theme=matrix&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=tokyonight)
 
 ---
 
