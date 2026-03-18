@@ -45,12 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=dark&bg_color=000000&text_color=00FF00&icon_color=00FF00&title_color=00FF00&hide_border=true" alt="Kusamochi-root's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusamochi-root&background=0d1117&ring=39FF14&fire=39FF14&curr_streak_num=39FF14&side_nums=39FF14&curr_streak_title=39FF14&side_labels=39FF14&dates=39FF14&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&bg_color=0d1117&text_color=39FF14&icon_color=39FF14&title_color=39FF14&hide_border=true" alt="Kusamochi-root's GitHub stats" />
-</p>
-
 ---
 
 ## 🤝 Support & Mentorship
