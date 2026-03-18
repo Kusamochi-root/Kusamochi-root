@@ -9,6 +9,7 @@
 - 🐧 **Linux (WSL/Ubuntu)** beginner.
 - 🐍 Learning **Python** for automation and security scripting.
 - 🇬🇧 Improving my **English** to read global technical docs.
+- 👩‍💻 Aspiring Security Researcher| Active on HackerOne | Learning Web Security
 
 ---
 
