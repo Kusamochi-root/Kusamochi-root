@@ -55,7 +55,7 @@ If you're interested in mentoring me, please reach out!
 
 
 ### 🐍 Snake Contribution Map
-![Snake animation](https://github.com/Kusamochi-root/Kusamochi-root/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kusamochi-root/Kusamochi-root/blob/output/github-contribution-grid-snake.svg?v=1)
 
 
              
