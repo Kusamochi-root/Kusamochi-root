@@ -54,6 +54,6 @@ If you're interested in mentoring me, please reach out!
 - **Session ID:** `0538bac0338c3b66cce376ca9245c0afddfd96564a0629e9c6288dd53cc15c266e`
 
 ### 🐍 Snake Contribution Map
-![Snake animation](https://raw.githubusercontent.com/Kusamochi-root/Kusamochi-root/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Kusamochi-root/Kusamochi-root/output/github-contribution-grid-snake-dark.svg?v=20240522)
              
   
