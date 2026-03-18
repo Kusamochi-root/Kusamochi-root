@@ -40,7 +40,7 @@
 ## 📈 Activity Logs
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusamochi-root&background=000000&fire=00FF00&curr_streak_num=00FF00&side_nums=00FF00&curr_streak_title=00FF00&side_labels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusamochi-root&background=000000&fire=00FF00&curr_streak_num=00FF00&side_nums=00FF00&curr_streak_title=00FF00&side_labels=FFFFFF&dates=00FF00&hide_border=true" alt="GitHub Streak" />
 </p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=tokyonight&hide_border=true" alt="Kusamochi-root's GitHub stats" />
