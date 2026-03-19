@@ -55,7 +55,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kusamochi-root.Kusamochi-root)
 
----
 
 ## 🤝 Support & Mentorship
 I'm looking for a **mentor** who can guide me.
