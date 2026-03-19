@@ -55,6 +55,12 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kusamochi-root.Kusamochi-root)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kusamochi-root&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🛠️ Daily System Log (Auto-generated)
+<!-- START_LOG -->
+<!-- ここにPythonが書き込みます -->
+<!-- END_LOG -->
 
 ## 🤝 Support & Mentorship
 I'm looking for a **mentor** who can guide me.
