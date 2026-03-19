@@ -36,3 +36,24 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+ # --- ここまでは既存の「蛇」を作るステップがあるはず ---
+
+      # 1. Pythonの環境を作る
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 2. さっき作った Python スクリプトを実行
+      - name: Execute Update Script
+        run: python update_readme.py
+
+      # 3. 蛇の画像と、更新されたREADMEをまとめてPush！
+      - name: Commit and Push All Changes
+        run: |
+          git config --global user.name "Kusamochi-bot"
+          git config --global user.email "bot@example.com"
+          git add .
+          git commit -m "chore: sync snake & system logs [skip ci]" || exit 0
+          git push
