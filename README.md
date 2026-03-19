@@ -47,8 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kusamochi-root&show_icons=true&theme=tokyonight&bg_color=000000&text_color=39FF14&icon_color=39FF14&title_color=39FF14&hide_border=true" alt="Kusamochi-root's GitHub stats" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kusamochi-root&theme=github_dark&v=1)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kusamochi-root&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusamochi-root&layout=compact&theme=vision-glow)
 ---
 
 ## 🤝 Support & Mentorship
