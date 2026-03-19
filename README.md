@@ -1,7 +1,9 @@
 # ⚡ Kusamochi-root
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kusamochi-root;Middle+School+Student+in+Japan;Learning+Cybersecurity;Python+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Kusamochi-root;Middle+School+Student+in+Japan;Learning+Cybersecurity;Python+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🚀 About Me
@@ -50,6 +52,8 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kusamochi-root&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusamochi-root&layout=compact&theme=vision-glow)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kusamochi-root.Kusamochi-root)
 
 ---
 
