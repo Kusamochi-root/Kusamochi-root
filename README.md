@@ -73,6 +73,6 @@ If you're interested in mentoring me, please reach out!
 
 
 
-###Information
+### Information
 "I’m currently taking a break due to my busy schedule, but I plan to be back in about a year."
 
