@@ -71,3 +71,8 @@ If you're interested in mentoring me, please reach out!
 ### 🐍 Snake Contribution Map
 ![Snake animation](https://raw.githubusercontent.com/Kusamochi-root/Kusamochi-root/output/github-contribution-grid-snake-dark.svg?v=20240522)
 
+
+
+###Information
+"I’m currently taking a break due to my busy schedule, but I plan to be back in about a year."
+
